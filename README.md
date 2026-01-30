@@ -78,6 +78,3 @@ Can be extended with search, filters, or category selection.
 
 Useful for practicing React, API integration, and responsive web design.
 
-If you want, I can also write a 1-paragraph “About” suitable for your GitHub or portfolio website — short, clear, and professional.
-
-Do you want me to do that?
